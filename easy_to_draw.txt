@@ -1,0 +1,21 @@
+Titles
+=======
+cs	Lihtne joonistada
+de	Einfach zu zeichnen
+en	Easy to draw
+es	Fácil de dibujar
+fr	Facile à dessiner
+it	Facile da disegnare
+nl	Gemakkelijk te tekenen
+pl	Łatwy do narysowania
+
+Descriptions
+=======
+cs	Lihtne joonistada sõnu. Puuduvad sõnad? Lisage oma ideed: https://github.com/derkalle4/steam-scribble-it-wordlists
+de	Einfach zu zeichnende Wörter. Fehlen Wörter? Füge deine Ideen selbst hinzu: https://github.com/derkalle4/steam-scribble-it-wordlists
+en	Easy to draw words. Missing words? Add your own ideas: https://github.com/derkalle4/steam-scribble-it-wordlists
+es	Palabras fáciles de dibujar. ¿Te faltan palabras? Añade tus propias ideas: https://github.com/derkalle4/steam-scribble-it-wordlists
+fr	Mots faciles à dessiner. Il manque des mots ? Ajoutez vos propres idées : https://github.com/derkalle4/steam-scribble-it-wordlists
+it	Parole facili da disegnare. Parole mancanti? Aggiungete le vostre idee: https://github.com/derkalle4/steam-scribble-it-wordlists
+nl	Gemakkelijk woorden tekenen. Ontbreken er woorden? Voeg je eigen ideeën toe: https://github.com/derkalle4/steam-scribble-it-wordlists
+pl	Łatwe do narysowania słowa. Brakujące słowa? Dodaj własne pomysły: https://github.com/derkalle4/steam-scribble-it-wordlists
